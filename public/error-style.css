@@ -1,0 +1,15 @@
+.container {
+  margin: 0;
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 0.25rem;
+  background-color: rosybrown;
+  color: white;
+}
+
+button {
+  width: 100%;
+}
